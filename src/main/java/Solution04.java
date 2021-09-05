@@ -1,3 +1,11 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 Fareed Ally
+ */
+
+// Print statements and use a scanner to save the inputs as a string
+// Print out all statements in a single output
+
 import java.util.Scanner;
 
 public class Solution04
